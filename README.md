@@ -8,7 +8,8 @@
 
 ## 核心功能体验
 
-![普通问答](ScreenShots/普通问答.png) 
+<img width="2112" height="1314" alt="普通问答" src="https://github.com/user-attachments/assets/d0ad1b1b-07fc-4d5d-8b6e-3b63abc1f540" />
+
 
 ### 智能创业咨询服务
 
@@ -18,7 +19,8 @@
 
 ### 智能参考来源系统
 
-![带参考来源的问答](ScreenShots/带参考来源的问答.png)
+<img width="2112" height="1314" alt="带参考来源的问答" src="https://github.com/user-attachments/assets/10ab8a7e-9bc6-4c83-8819-e2fecc5da3ba" />
+
 
 创业者导师具备强大的智能参考来源系统，这是平台的核心创新功能之一。当AI为您提供创业建议时，系统会自动识别并解析相关的参考来源，在回答正文中使用①②③等编号进行标记，并在回答底部清晰列出所有参考来源链接。这种设计让您能够验证AI建议的可靠性，并进一步深入了解相关的行业信息和案例分析。
 
@@ -32,7 +34,7 @@
 
 ## 技术架构设计
 
-![架构设计](ScreenShots/架构设计.png)
+
 
 ### 前端创新设计理念
 
@@ -48,7 +50,8 @@
 
 ### 后端服务集成
 
-![代码页面](ScreenShots/代码页面.png)
+<img width="1376" height="838" alt="代码页面" src="https://github.com/user-attachments/assets/898b5b28-7de5-47d2-b705-e5f501bbcf20" />
+
 
 系统后端采用Node.js构建，支持WebSocket和Server-Sent Events两种实时通信协议，确保与AI服务的稳定连接。我们集成了腾讯云的大模型API，为用户提供强大的自然语言理解和生成能力。系统还实现了智能的消息队列管理机制，能够处理高并发的用户请求，并保证响应的实时性。
 
